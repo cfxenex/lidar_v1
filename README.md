@@ -1,6 +1,18 @@
 // lidar_v1
 // created by chris farquer
 
+
+
+
+
+
+
+
+
+
+
+
+
 #include <Wire.h>
 #define    LIDARLite_ADDRESS   0x62          // Default I2C Address of LIDAR-Lite.
 #define    RegisterMeasure     0x00          // Register to write to initiate ranging.
